@@ -10,7 +10,7 @@
 This repository contains key artifacts and reflections developed during the SNHU Travel application case study. The coursework explored transitioning from a sequential Waterfall model to an iterative Scrum-Agile development lifecycle, experiencing hands-on execution across the Product Owner, Developer, QA Tester, and Scrum Master roles.
 
 Included in this repository:
-* **Sprint Review and Retrospective (`CS 250 Final Project Sprint Review and Retrospective.docx`):** A comprehensive evaluation of team roles, handling requirement pivots, communication dynamics, and methodology selection.
+* **Sprint Review and Retrospective :** A comprehensive evaluation of team roles, handling requirement pivots, communication dynamics, and methodology selection.
 
 ---
 
